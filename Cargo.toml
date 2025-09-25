@@ -1,5 +1,3 @@
 [workspace]
-members = [
-  "rclrs",
-]
+members = ["rclrs", "rclrs_demo"]
 resolver = "2"
